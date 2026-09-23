@@ -8,3 +8,8 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: biology. Data science could be used to analyze diseases to see if there are any relations in the data.
  q2
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging is when two branches are being merged together while rebase moves a commit to the newest main.
