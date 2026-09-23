@@ -13,3 +13,7 @@ Answer: biology. Data science could be used to analyze diseases to see if there 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging is when two branches are being merged together while rebase moves a commit to the newest main.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning the possible things I can do with data science.
